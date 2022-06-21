@@ -112,3 +112,9 @@ For example, what is the likelihood of someone purchasing your product, how many
 
 - Given data on every customer service made , what's the average time it took to respond?
 - Given data on all 100,000 people who viewed an ad, what percent of people clicked on it?
+
+#### Inferential data example
+- Given data on 20 fish caught in a lake, what's the average weight of all fish in the lake?
+- After interviewing 100 customers, what percent of all your customers are satisfied with your product?
+---
+### Measure of Center
