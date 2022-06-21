@@ -102,5 +102,8 @@ For example, what is the likelihood of someone purchasing your product, how many
 <td>Continuous (Measured)</br><li>Airplane speed</li> <li>Time spent waiting in line</li></td>
 <td>Nominal (Unordered)</br><li>Married / Unmarried</li> <li>Country of residence</li></td>
 </tr>
-
+<tr>
+<td>Discrete (Counted)</br> <li>Number of pets</li><li>Number of packages shipped</li></td>
+<td>Ordinal (Ordered)</br><li>Strongly disagree</li> <li>Somewhat disagree</li> <li>Neither agree or disagree</li> <li>Somewhat agree</li><li>Strongly agree</li></td>
+</tr>
 </table>
