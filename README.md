@@ -55,7 +55,7 @@ For example, what is the likelihood of someone purchasing your product, how many
     - The t-distribution
 
 
-4. Correlation and Experimental Design
+4. **Correlation and Experimental Design**
     - Correlation
     - Relationships between variables
     - Correlation caveats
