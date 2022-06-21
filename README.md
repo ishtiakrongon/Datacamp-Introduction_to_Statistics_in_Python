@@ -67,3 +67,40 @@ For example, what is the likelihood of someone purchasing your product, how many
 
 
 ---
+
+### Introduction to Statistics
+
+#### What is statistics?
+
+- **The field of statistics** :- The practice and study of collecting and analyzing data
+- **A summary statistics** :- A fact about or summary of some data
+
+#### What can statistics do?
+
+**Example**
+
+
+- How likely is someone to purchase a product? Are people more likely to purchase it if they can use a different payment system?
+- How many occupants will your hotel have? How can you optimize occupancy?
+- How many sizes of jeans need to be manufactured so they can fit 95% of the population? Should the same number of each size be produced?
+- A/B tests: Which ad is more effective in getting people to purchase a product?
+
+#### Types of statistics
+
+| Descriptive statistics | Inferential statistics|
+| ---------------------- | --------------------- |
+| Describe and summarize data | Use a sample of data to make inferences about larger population |
+
+#### Types of data
+
+<table>
+<tr>
+<th>Numeric (Quantitative)</th>
+<th>Categorical (Qualitative)</th>
+</tr>
+<tr>
+<td>Continuous (Measured)</br><li>Airplane speed</li> <li>Time spent waiting in line</li></td>
+<td>Nominal (Unordered)</br><li>Married / Unmarried</li> <li>Country of residence</li></td>
+</tr>
+
+</table>
