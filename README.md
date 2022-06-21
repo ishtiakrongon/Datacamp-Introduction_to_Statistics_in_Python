@@ -117,4 +117,3 @@ For example, what is the likelihood of someone purchasing your product, how many
 - Given data on 20 fish caught in a lake, what's the average weight of all fish in the lake?
 - After interviewing 100 customers, what percent of all your customers are satisfied with your product?
 ---
-### Measure of Center
